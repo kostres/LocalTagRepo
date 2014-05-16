@@ -19,7 +19,7 @@ var data = {
 	, 
 	{
 		text : "Dok mi radimo, ",
-		label : 'kostres',
+		label : 'kostres razmislja',
 		url : "http://2.bp.blogspot.com/_9GHoR-RJLy8/S8WQ-Tnd-SI/AAAAAAAAQnk/ztXkONoybQk/s1600/Finlandpic.jpg"
 
 	}
